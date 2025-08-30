@@ -6,14 +6,16 @@ import Hero from "../Components/Hero";
 import { Navbar } from "../Components/Navbar";
 import { SkillsSection } from "../Components/SkillsSection";
 import { StarBackground } from "../Components/StarBackground";
-import { ThemeToggle } from "../Components/ThemeToggle";
+
 import { Projects } from "../Components/Projects";
+import { Toggle } from "../Components/Toggle";
+// import { ThemeToggle } from "../Components/ThemeToggle";
 
 export const Home = () => {
   return (
     <div className="min-h-screenn bg-background text-foreground overflow-x ">
       {/* // theme toggle */}
-      <ThemeToggle />
+      <Toggle />
       {/* // background effects */}
       <StarBackground />
       {/* // navbar */}
