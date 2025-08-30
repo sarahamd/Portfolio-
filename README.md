@@ -1,4 +1,4 @@
-# 🌸 Sarah Hamed – Portfolio
+ # 🌸 Sarah Hamed – Portfolio
 
 Hi, I'm **Sarah Hamed** 👋  
 A **Frontend & MERN Stack Developer** passionate about building responsive and user-friendly web applications.  
